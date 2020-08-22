@@ -1,0 +1,23 @@
+.faceimage {
+    display: grid;
+    justify-content: center;
+    max-width: 100vw;
+    height: auto;
+}
+.faceimage img {
+    height: auto;
+    max-width: 700px;
+}
+.relative {
+    position: relative;
+    z-index: 100;
+}
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 100;
+}
