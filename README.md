@@ -1,9 +1,23 @@
+## How to use:
+
+### 1 - Get an image link.
+
+![Image of people](https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+#### link: https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+
+### 2 - Copy, paste and click submit.
+
+![Image step 2](https://i.imgur.com/O82wh4K.png)
+
+### 3 - Result.
+
+![Image step 3](https://i.imgur.com/D9WMiBv.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
